@@ -54,9 +54,9 @@ def get_park_loc(team):
     if team == 'OAK': 
         return Point(37.8, -122.2, 12.8)
     if team == 'PHI': 
-        return Point(39.9, -75.2, )
+        return Point(39.9, -75.2, 223.4)
     if team == 'PIT': 
-        return Point(40.4, -80.0, 2.7)
+        return Point(40.4, -80.0, 226.5)
     if team == 'SDP': 
         return Point(32.7, -117.2, 4.0)
     if team == 'SEA':
