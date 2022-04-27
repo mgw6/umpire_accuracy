@@ -5,7 +5,7 @@ Final project for Econ 416 - Senior Seminar at [St. John Fisher College](https:/
 Based on the [Umpire Scorecards Twitter Page](https://mobile.twitter.com/umpscorecards?lang=en),
 this project aimed to look at how an umpire would perform in their next game behind the plate based on their performance of the previous game. 
 
-In order to follow my workflow, run these codes in this order to follow my results:
+In order to follow my workflow, run these codes in this order:
 1. get_umpire_performance.ipynb
 2. other_game_factors.ipynb
 3. make_final_data.ipynb
