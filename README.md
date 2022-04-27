@@ -11,6 +11,6 @@ In order to follow my workflow, run these codes in this order:
 3. make_final_data.ipynb
 
 All of the necessary datasets will be generated in the code, with the exception of the umpire id's, which can be found 
-[here](https://billpetti.github.io/baseball_tools/).
+[here](https://billpetti.github.io/baseball_tools/), and the umpire ages which I made by hand and is in the data_files folder.
 
 Should you be interested in the final paper I wrote on this, feel free to [reach out via email](mailto:magwin2012@gmail.com).
